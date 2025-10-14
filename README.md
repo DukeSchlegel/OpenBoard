@@ -11,7 +11,7 @@
     <picture>
         <source media="(prefers-color-sheme: dark)" srcset="https://github.com/DukeSchlegel/OpenBoard/raw/main/assets/images/OpenBoard-logotype-white.png">
         <source media="(prefers-color-sheme: light)" srcset="https://github.com/DukeSchlegel/OpenBoard/raw/main/assets/images/OpenBoard-logotype-black.png">
-        <img alt="OpenBoard logo" src="https://github.com/DukeSchlegel/OpenBoard/raw/main/assets/images/OpenBoard-logotype-black.png" width="50%">
+        <img alt="OpenBoard logo" src="https://github.com/DukeSchlegel/OpenBoard/raw/main/assets/images/OpenBoard-logotype-black.png">
     </picture>
 </div>
 
