@@ -9,9 +9,9 @@
 
 <div align="center">
     <picture>
-        <source media="(prefers-color-sheme: dark)" srcset="https://github.com/DukeSchlegel/OpenBoard/raw/main/assets/images/OpenBoard-logotype-white.svg">
-        <source media="(prefers-color-sheme: light)" srcset="https://github.com/DukeSchlegel/OpenBoard/raw/main/assets/images/OpenBoard-logotype-black.svg">
-        <img alt="OpenBoard logo" src="https://github.com/DukeSchlegel/OpenBoard/raw/main/assets/images/OpenBoard-logotype-black.svg" width="50%">
+        <source media="(prefers-color-sheme: dark)" srcset="https://github.com/DukeSchlegel/OpenBoard/raw/main/assets/images/OpenBoard-logotype-white.png">
+        <source media="(prefers-color-sheme: light)" srcset="https://github.com/DukeSchlegel/OpenBoard/raw/main/assets/images/OpenBoard-logotype-black.png">
+        <img alt="OpenBoard logo" src="https://github.com/DukeSchlegel/OpenBoard/raw/main/assets/images/OpenBoard-logotype-black.png" width="50%">
     </picture>
 </div>
 
